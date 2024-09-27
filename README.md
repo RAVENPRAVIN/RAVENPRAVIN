@@ -1,14 +1,23 @@
-## Hi Everyone 👋 I am Pravin Kumar
+## Hi there 👋 It's me Kishor Kumar
 
-- 👋 Hi, I’m @RAVENPRAVIN
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on AI/DS
-- 📫 How to reach me <br> <a href="https://www.linkedin.com/in/pravinkumar-amirtha"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-q2hEIapAvzuVWyw6fC9DAq90xK8aLXhfox6F9Fg6UBH5QRb-aFNX6RVZN8xNxHd14c&usqp=CAU" width="75px" height="75px"></a>
-- 😄 Pronouns: Norman Lee
-- ⚡ Fun fact: Sun Shines
+Engineering Student @ Saveetha Engineering College
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                              
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Fullstack Web Development
+- 🤔 I’m looking for help with Placements in FAANG
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][(https://www.linkedin.com/in/pravinkumar-amirtha/)]
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I know Japanese.
 
-<!---
-RAVENPRAVIN/RAVENPRAVIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+
+
+![kishorerz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorerz&show_icons=true&theme=dark)
